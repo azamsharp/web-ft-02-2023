@@ -1,7 +1,7 @@
 # DigitalCrafts 
 
 - [Week 1 - HTML, CSS, Responsive Design, FlexBox](/week3/index.md) 
-- [Week 2 - Python Classes, Files, Unit Tests](week2/index.md)
+- [Week 2 - Introduction to JavaScript](week1/index.md)
 - [Week 1 - HTML, CSS, Responsive Design, FlexBox](week3/index.md)
 - [Week 2 - Introduction to JavaScript](week4/index.md)
 - [Week 3 - JavaScript, HTML Manipulation, Events, Callbacks](week4/index.md)
