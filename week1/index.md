@@ -4,7 +4,7 @@
 
 - [Activity 1 - String Interpolation](day2/activities/string-interop.md)
 - [Activity 2 - Vowel](day2/activities/vowel.md)
-- [Activity 3 - Tip Calculator](day2/activities/tip-calculator.md))
+- [Activity 3 - Tip Calculator](day2/activities/tip-calculator.md)
 - [Assignment - Calculator, Even/Odd, FizzBuz](day2/assignments/calc.md)
 
 ---
