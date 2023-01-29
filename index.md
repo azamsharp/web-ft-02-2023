@@ -13,7 +13,7 @@ OLD - [Week 2 - Introduction to JavaScript](week4/index.md)
 - [Week 6 - Node](week7/index.md)
 
 - [Week 7 - Database](week8/index.md)
-- [Week 8]
+- [Week 8 - TBD]
 
 - [Week 9 - Backend Project Week]
 - [Week 10 - Career Week]
