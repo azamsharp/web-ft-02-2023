@@ -35,7 +35,7 @@
 
 - Review 
 - [Git Book](https://git-scm.com/book/en/v2)
-- [Activity 1 - Bubble Sort](day5/activities/bubble-sort.md) (NEXT WEEK) 
+- [Activity 1 - Bubble Sort](day5/activities/bubble-sort.md) 
 - [Algorithm Exercises](day5/activities/algo.md)
 - [More Algorithms](day5/code-downloads/pythonAlgos.zip) 
 
