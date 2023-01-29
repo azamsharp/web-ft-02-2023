@@ -1,4 +1,4 @@
-# Week 7 Introduction to Express.js
+# Week 6 Introduction to Express.js
 
 ## Day 1 
 ### ❗ Learning Objectives
