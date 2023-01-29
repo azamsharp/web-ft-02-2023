@@ -1,7 +1,28 @@
 
 # Week 1
 
-## Day 1
+## Day 1 
+--- 
+- [CLI Exercises](https://learnpythonthehardway.org/book/appendixa.html)
+- [Assignment CLI](day1/assignments/assignment-cli.md)
+- [Commands discussed in class](day1/commands-inclass.md)
+- [Python Official Website](https://www.python.org/) (Recommended) 
+- [Installing Anaconda](https://docs.anaconda.com/anaconda/install/
+) 
+- [Windows Command Line vs Mac Terminal](https://enexdi.sciencesconf.org/data/pages/windows_vs_mac_commands_1.pdf)
+- [Running Bash Scripts](https://bash.cyberciti.biz/guide/Hello,_World!_Tutorial)
+- [Creating Environments in Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+
+
+
+### More CLI Resources 
+- [Bash Shell Cheat Sheet](https://learncodethehardway.org/unix/bash_cheat_sheet.pdf) 
+- [Quick Cheat Sheet for UNIX and Mac](http://learntocodewith.me/command-line/unix-command-cheat-sheet/) 
+- [A Unix Survival Guide](http://matt.might.net/articles/basic-unix/) 
+---   
+
+
+## Day 2
 ---
 - [Activity 1](day1/activities/styles.md)
 - [Activity 2](day1/activities/apply-styles-list.md)
@@ -9,7 +30,7 @@
 - [Class Code - 09-26-2022](day1/code-downloads/LearnHTML.zip) 
 - [Canvas Recourse - CSS 101](https://digitalcrafts.instructure.com/courses/220/pages/reading-css-101?module_item_id=44529)
 
-## Day 2 
+## Day 3 
 - [Activity - HighOnCoding](day2/activities/hoc.md)
 - [Activity 1 - Fix the Margin](day2/activities/fix-the-margin.md) 
 - [Activity 2 - Deal Week](day2/activities/deal-week.md) 
@@ -18,7 +39,7 @@
 - [Canvas Recourse - Intro to CSS Grid](https://digitalcrafts.instructure.com/courses/220/pages/reading-intro-to-css-grid?module_item_id=44544)
 - [Canvas Recourse - CSS Postion Properties](https://digitalcrafts.instructure.com/courses/220/pages/reading-css-position-property?module_item_id=44545)
 
-## Day 3 
+## Day 4
 ---
 - [Activity 1 - Media Queries](day3/activities/media-q.md)
 - [Activity 2 - FlexBox](day3/activities/flexbox.md)
@@ -31,7 +52,7 @@
 - [Canvas Recourse - Media Queries](https://digitalcrafts.instructure.com/courses/220/pages/reading-media-queries?module_item_id=44565)
 - [Canvas Recourse - CSS Flexbox](https://digitalcrafts.instructure.com/courses/220/pages/reading-css-flexbox?module_item_id=44564)
 
-## Day 4 
+## Day 5 
 ---
 - [Bootstrap Official Website](https://getbootstrap.com/)
 <!-- 
@@ -48,7 +69,7 @@
 - [Class Code](day4/code-downloads/intro-sass-bootstrap.zip)
 - [Canvas Recourse - Bootstrap](https://digitalcrafts.instructure.com/courses/220/pages/reading-bootstrap?module_item_id=44584)
 
-## Day 5 
+## Extra resources  
 
 - [Surge](https://surge.sh/)
 - [Animate.css](https://animate.style/)
