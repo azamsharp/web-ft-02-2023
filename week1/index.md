@@ -23,9 +23,9 @@
 ---
 
 - [Activity 1 - Creating Objects](day4/activities/creating-a-dictionary.md) 
-- [Activity 2 - Nested Dictionaries](day4/activities/nested-dictionaries.md) 
-- [Activity 3 - Multi Nested Dictionary Based on JSON Structore](day4/activities/multi-nested-dict-json-structure.md) 
-- [Assignment - TODOList Using Dictionaries](day4/assignments/todolist-using-dictionaries.md)
+- [Activity 2 - Nested Objects](day4/activities/nested-dictionaries.md) 
+- [Activity 3 - Multi Nested Objects Based on JSON Structore](day4/activities/multi-nested-dict-json-structure.md) 
+- [Assignment - TODOList Using Objects](day4/assignments/todolist-using-dictionaries.md)
 
 ---
 
