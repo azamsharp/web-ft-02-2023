@@ -6,7 +6,7 @@
 --> 
 
 - [Week 1 - HTML, CSS, Responsive Design, FlexBox](week3/index.md)
-- [Week 2 - Introduction to JavaScript](week4/index.md)
+- [Week 2 - Introduction to JavaScript](week2/index.md)
 - [Week 3 - JavaScript, HTML Manipulation, Events, Callbacks](week4/index.md)
 
 - [Week 4 - REST API, Promises](week5/index.md) 
