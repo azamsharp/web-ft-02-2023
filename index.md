@@ -8,7 +8,7 @@
 - [Week 6 - Node](week7/index.md)
 
 - [Week 7 - Database](week8/index.md)
-- [Week 8 - TBD]
+- [Week 8 - Sockets, MVC and Testing]
 
 - [Week 9 - Backend Project Week]
 - [Week 10 - Career Week]
