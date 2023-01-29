@@ -33,6 +33,7 @@
 
 ---
 
+- Review 
 - [Git Book](https://git-scm.com/book/en/v2)
 - [Activity 1 - Bubble Sort](day5/activities/bubble-sort.md) (NEXT WEEK) 
 - [Algorithm Exercises](day5/activities/algo.md)
