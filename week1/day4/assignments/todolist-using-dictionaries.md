@@ -1,5 +1,5 @@
 
-# TodoList Using Dictionaries 
+# TodoList Using Objects 
 
 In this assignment you are going to create a TODO app. When the app starts it should present user with the following menu: 
 
