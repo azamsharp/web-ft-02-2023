@@ -6,13 +6,9 @@
 - [CLI Exercises](https://learnpythonthehardway.org/book/appendixa.html)
 - [Assignment CLI](day1/assignments/assignment-cli.md)
 - [Commands discussed in class](day1/commands-inclass.md)
-- [Python Official Website](https://www.python.org/) (Recommended) 
-- [Installing Anaconda](https://docs.anaconda.com/anaconda/install/
 ) 
 - [Windows Command Line vs Mac Terminal](https://enexdi.sciencesconf.org/data/pages/windows_vs_mac_commands_1.pdf)
 - [Running Bash Scripts](https://bash.cyberciti.biz/guide/Hello,_World!_Tutorial)
-- [Creating Environments in Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
-
 
 
 ### More CLI Resources 
