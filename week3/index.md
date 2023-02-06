@@ -6,7 +6,6 @@
 - [CLI Exercises](https://learnpythonthehardway.org/book/appendixa.html)
 - [Assignment CLI](day1/assignments/assignment-cli.md)
 - [Commands discussed in class](day1/commands-inclass.md)
-) 
 - [Windows Command Line vs Mac Terminal](https://enexdi.sciencesconf.org/data/pages/windows_vs_mac_commands_1.pdf)
 - [Running Bash Scripts](https://bash.cyberciti.biz/guide/Hello,_World!_Tutorial)
 
