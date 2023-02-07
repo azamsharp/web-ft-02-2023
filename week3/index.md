@@ -31,8 +31,8 @@
 - [Activity 2 - Deal Week](day2/activities/deal-week.md) 
 - [Assignment - Interface for Bricks Game](day2/assignments/bricks.md)
 - [Class Code - 09/27/2022](day2/code-downloads/LearnPositionMargins.zip) 
-- [Canvas Recourse - Intro to CSS Grid](https://digitalcrafts.instructure.com/courses/220/pages/reading-intro-to-css-grid?module_item_id=44544)
-- [Canvas Recourse - CSS Postion Properties](https://digitalcrafts.instructure.com/courses/220/pages/reading-css-position-property?module_item_id=44545)
+- [Canvas Recourse - Intro to CSS Grid]
+- [Canvas Recourse - CSS Postion Properties]
 
 ## Day 4
 ---
