@@ -5,6 +5,7 @@
 - [Activity 1 - String Interpolation](day2/activities/string-interop.md)
 - [Activity 2 - Vowel](day2/activities/vowel.md)
 - [Activity 3 - Tip Calculator](day2/activities/tip-calculator.md)
+- [Class Code 02/13/2023](https://gist.github.com/azamsharp/e129f71e191260a4c2a5a927db4d7f5e)
 - [Assignment - Calculator, Even/Odd, FizzBuz](day2/assignments/calc.md)
 
 ---
