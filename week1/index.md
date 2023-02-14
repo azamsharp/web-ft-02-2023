@@ -17,6 +17,7 @@
 - [Activity 3 - Reverse String](day3/activities/reverse-string.md) 
 - [Activity 4 - While Loop](day3/activities/while-loop.md)
 - [Assignment - Factorial, Palindrome, Prime or NOT](day3/assignments/factorial.md)
+- [Class Code - 02/14/2023](https://gist.github.com/azamsharp/6be2f8035fb985f303aede2845c370d1)
 
 --- 
 ## Day 3 
