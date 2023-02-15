@@ -24,7 +24,7 @@
 
 ---
 
-- Understanding classes and objects 
+
 - [Activity 1 - Creating Objects](day4/activities/creating-a-dictionary.md) 
 - [Activity 2 - Nested Objects](day4/activities/nested-dictionaries.md) 
 - [Activity 3 - Multi Nested Objects Based on JSON Structore](day4/activities/multi-nested-dict-json-structure.md) 
@@ -35,7 +35,7 @@
 ## Day 4
 
 ---
-
+- Understanding classes and objects 
 - Array Helpers + Other features of JavaScript 
 
 
