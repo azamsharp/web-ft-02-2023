@@ -29,6 +29,7 @@
 - [Activity 2 - Nested Objects](day4/activities/nested-dictionaries.md) 
 - [Activity 3 - Multi Nested Objects Based on JSON Structore](day4/activities/multi-nested-dict-json-structure.md) 
 - [Assignment - TODOList Using Objects](day4/assignments/todolist-using-dictionaries.md)
+- [Class code - 02/15/2023](https://gist.github.com/azamsharp/ef90bd5aa750d0d3f3fd3d2ed3c9dd1d)
 
 ---
 
