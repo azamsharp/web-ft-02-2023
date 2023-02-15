@@ -1,17 +1,12 @@
 
 # TodoList Using Objects 
 
-In this assignment you are going to create a TODO app. When the app starts it should present user with the following menu: 
+In this assignment you are going to create a TODO app. When the app launch, ask the user for their choice. 
 
-Press 1 to add task 
-
-Press 2 to delete task (HARD MODE)
-
-Press 3 to view all tasks 
-
-Press q to quit 
-
-The user should only be allowed to quit when they press 'q'. 
+If user enters 1 then allow them to add a new task 
+If user enters 2 then alow them to delete the task 
+If user enters 3 then allow them to view all tasks 
+If user enters q then quit the app 
 
 **Add Task:** 
 
@@ -31,15 +26,14 @@ Allow the user to view all the tasks in the following format:
 
  
 
-* Store each task in a dictionary and use 'title' and 'priority' as keys of the dictionary. 
+* Store each task in an object and use 'title' and 'priority' as keys of the object. 
 
-* Store each dictionary inside an array. Array will represent list of tasks.  
+* Store each object inside an array. Array will represent list of tasks.  
 
 
 ** HINT ** 
 
-tasks = [] # global array 
+let tasks = [] // You can create a tasks array at the very top of your file 
 
-input("Enter your option") 
 
 
