@@ -37,6 +37,7 @@
 ---
 - Understanding classes and objects 
 - Array Helpers + Other features of JavaScript 
+- [Resource: Array Helpers](https://medium.com/swlh/array-helper-methods-in-es6-28fc5e5a5dc9)
 
 
 ## Day 5
