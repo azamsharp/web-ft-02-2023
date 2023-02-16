@@ -37,8 +37,10 @@
 
 ---
 - Understanding classes and objects 
-- Array Helpers + Other features of JavaScript 
-- [Resource: Array Helpers](https://medium.com/swlh/array-helper-methods-in-es6-28fc5e5a5dc9)
+- [Activity 1 - Table Class](../week2/day1/activities/table.md)
+- [Activity 2 - User and Address](../week2/day1/activities/user-and-address.md)
+- [Activity 3 - Bank Account](../week2/day1/activities/bank-account.md)
+- [Assignment - Grocery App](../week2/day1/assignments/grocery-app.md)
 
 
 ## Day 5
@@ -46,6 +48,8 @@
 ---
 
 - Review 
+- [Resource: Array Helpers](https://medium.com/swlh/array-helper-methods-in-es6-28fc5e5a5dc9)
+
 - [Git Book](https://git-scm.com/book/en/v2)
 - [Activity 1 - Bubble Sort](day5/activities/bubble-sort.md) 
 - [Algorithm Exercises](day5/activities/algo.md)
