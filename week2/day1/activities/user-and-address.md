@@ -5,5 +5,5 @@ Create a class called User which consists of (firstName, lastName) properties. C
 
 Create a relationship between User and Address in a way that a single user can have multiple addresses. 
 
-Print out the user firstName, lastName and all the addresses associated with the user. 
+Print out the user firstName, lastName and all the addresses associated with the user. Use a for loop to iterate and display the attributes of an address. 
 
