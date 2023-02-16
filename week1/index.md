@@ -41,6 +41,7 @@
 - [Activity 2 - User and Address](../week2/day1/activities/user-and-address.md)
 - [Activity 3 - Bank Account](../week2/day1/activities/bank-account.md)
 - [Assignment - Grocery App](../week2/day1/assignments/grocery-app.md)
+- [Class code - 02/16/2023](https://gist.github.com/azamsharp/e6d8ea8316e3898c44466f5d62ef7252)
 
 
 ## Day 5
