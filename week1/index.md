@@ -52,8 +52,11 @@
 - [Resource: Array Helpers](https://medium.com/swlh/array-helper-methods-in-es6-28fc5e5a5dc9)
 
 - [Git Book](https://git-scm.com/book/en/v2)
+<!-- 
+
 - [Activity 1 - Bubble Sort](day5/activities/bubble-sort.md) 
 - [Algorithm Exercises](day5/activities/algo.md)
 - [More Algorithms](day5/code-downloads/pythonAlgos.zip) 
+-->
 
 
