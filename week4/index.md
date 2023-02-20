@@ -20,8 +20,8 @@
 - [Class Code - 10/04/2022](day2/code-downloads/intro-dom-manipulation.zip)
 - [Class Code - 02/20/2023](day2/code-downloads/LearnJS.zip)
 
-- [Canvas Resouce - DOM 101](https://digitalcrafts.instructure.com/courses/220/pages/reading-dom-101?module_item_id=44626)
-- [Canvas Resouce - Handling Browser Events](https://digitalcrafts.instructure.com/courses/220/pages/reading-handling-browser-events?module_item_id=44627)
+- [Canvas Resouce - DOM 101](https://digitalcrafts.instructure.com/courses/238/pages/reading-dom-101?module_item_id=44626)
+- [Canvas Resouce - Handling Browser Events](https://digitalcrafts.instructure.com/courses/238/pages/reading-handling-browser-events?module_item_id=44627)
 
 ## Day 2 
 
