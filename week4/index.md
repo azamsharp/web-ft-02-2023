@@ -20,8 +20,8 @@
 - [Class Code - 10/04/2022](day2/code-downloads/intro-dom-manipulation.zip)
 - [Class Code - 02/20/2023](day2/code-downloads/LearnJS.zip)
 
-- [Canvas Resouce - DOM 101](https://digitalcrafts.instructure.com/courses/220/pages/reading-dom-101?module_item_id=44626)
-- [Canvas Resouce - Handling Browser Events](https://digitalcrafts.instructure.com/courses/220/pages/reading-handling-browser-events?module_item_id=44627)
+- [Canvas Resouce - DOM 101](https://digitalcrafts.instructure.com/courses/238/pages/reading-dom-101?module_item_id=44626)
+- [Canvas Resouce - Handling Browser Events](https://digitalcrafts.instructure.com/courses/238/pages/reading-handling-browser-events?module_item_id=44627)
 
 ## Day 2 
 
@@ -37,6 +37,7 @@
 - [Class Code](day3/code-downloads/template-literals-array-helpers-object-looping.zip)
 - [Class Code - 07/28/2021](day3/code-downloads/array-helpers-template-literals.zip)
 - [Class Code - 10/05/2022](day3/code-downloads//week4-day3.zip)
+- [Practice Exercises](https://gist.github.com/azamsharp/b7ef8f8622c5ece4f94307904093db36)
 - [Class Code - 02/21/2023](day3/code-downloads/LearnJS-template-literals.zip)
 
 ## Day 3 
@@ -56,6 +57,7 @@
 - [Class Code](day4/code-downloads/callbacks.zip)
 - [Class Code - 07-29-2021](day4/code-downloads/callbacks-29.zip)
 - [Class code - 10/06/2022](day4/code-downloads/week4-day4.zip)
+- [Practice Exercises](https://gist.github.com/azamsharp/be14aa6206b3a2185367ad67804d80f1)
 
 
 ## Day 4 
@@ -66,18 +68,17 @@
 * Require a field
 
 ---
-
-- [Activity 1 - Timer](day4/activities/timer.md)
-- [Activity 2 - Stock Quotes](day4/activities/stocks.md)
-- [Activity 3 - Array Helpers](day3/activities/array-helpers.md)
-- [Activity 4 - Slideshow](day5/activities/slideshow.md)
+- Form Validation
+- jQuery
 - [Activity 5 - Registration](day5/activities/register.md)
 - [Deployment Surge](https://surge.sh/)
 - [Deployment Netlify](https://www.netlify.com/)
+- [Canvas Resource - Form Validation](https://digitalcrafts.instructure.com/courses/238/pages/reading-form-validation?module_item_id=57920)
 
 ## Day 5 
 
 - Presentations 
 - Review 
+- Practice Questions 
 
 
