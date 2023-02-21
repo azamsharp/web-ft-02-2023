@@ -72,6 +72,7 @@
 - [Activity 5 - Registration](day5/activities/register.md)
 - [Deployment Surge](https://surge.sh/)
 - [Deployment Netlify](https://www.netlify.com/)
+- [Canvas Resource - Form Validation](https://digitalcrafts.instructure.com/courses/238/pages/reading-form-validation?module_item_id=57920)
 
 ## Day 5 
 
