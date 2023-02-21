@@ -70,6 +70,15 @@
 - [Canvas Recourse - Node Under The Hood](https://digitalcrafts.instructure.com/courses/220/pages/reading-node-under-the-hood?module_item_id=44798)
 - Gist: https://gist.github.com/azamsharp/fc55b2ca04417d813fa78886fc2b9ea3
 ---
+
+## Day 5
+
+- Review 
+- Practice Exercises
+
+---
+
+
 <!-- 
 
 ## Day 5 
