@@ -15,6 +15,8 @@ ImageURL (Display the image not the actual image URL)
 
 The page should also have an option to FILTER the dishes by course: 
 
+All
+
 Starters
 
 Entrees
