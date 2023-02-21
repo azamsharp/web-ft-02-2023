@@ -74,6 +74,7 @@
 - [Deployment Surge](https://surge.sh/)
 - [Deployment Netlify](https://www.netlify.com/)
 - [Canvas Resource - Form Validation](https://digitalcrafts.instructure.com/courses/238/pages/reading-form-validation?module_item_id=57920)
+- [Canvas Resource - JQuery](https://digitalcrafts.instructure.com/courses/238/pages/reading-jquery?module_item_id=57937)
 
 ## Day 5 
 
