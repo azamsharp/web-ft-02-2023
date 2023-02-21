@@ -37,6 +37,7 @@
 - [Class Code](day3/code-downloads/template-literals-array-helpers-object-looping.zip)
 - [Class Code - 07/28/2021](day3/code-downloads/array-helpers-template-literals.zip)
 - [Class Code - 10/05/2022](day3/code-downloads//week4-day3.zip)
+- [Class Code - 02/21/2023](day3/code-downloads/LearnJS-template-literals.zip)
 
 ## Day 3 
 
