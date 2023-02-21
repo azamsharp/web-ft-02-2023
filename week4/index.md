@@ -37,6 +37,7 @@
 - [Class Code](day3/code-downloads/template-literals-array-helpers-object-looping.zip)
 - [Class Code - 07/28/2021](day3/code-downloads/array-helpers-template-literals.zip)
 - [Class Code - 10/05/2022](day3/code-downloads//week4-day3.zip)
+- [Practice Exercises](https://gist.github.com/azamsharp/b7ef8f8622c5ece4f94307904093db36)
 
 ## Day 3 
 
@@ -55,6 +56,7 @@
 - [Class Code](day4/code-downloads/callbacks.zip)
 - [Class Code - 07-29-2021](day4/code-downloads/callbacks-29.zip)
 - [Class code - 10/06/2022](day4/code-downloads/week4-day4.zip)
+- [Practice Exercises](https://gist.github.com/azamsharp/be14aa6206b3a2185367ad67804d80f1)
 
 
 ## Day 4 
@@ -66,7 +68,7 @@
 
 ---
 - Form Validation
-- [jQuery]
+- jQuery
 - [Activity 5 - Registration](day5/activities/register.md)
 - [Deployment Surge](https://surge.sh/)
 - [Deployment Netlify](https://www.netlify.com/)
@@ -75,5 +77,6 @@
 
 - Presentations 
 - Review 
+- Practice Questions 
 
 
