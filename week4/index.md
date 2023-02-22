@@ -78,6 +78,10 @@
 
 - Presentations 
 - Review 
-- Practice Questions 
+- [Practice Questions - HTML and JavaScript Validation](day5/activities/pq-html-js-validation.md) 
+- [Practice Questions - Callbacks in JavaScript](day5/activities/pq-callbacks.md)
+- [Practice Questions - Array Helpers](day5/activities/pq-array-helpers.md)
+
+
 
 
