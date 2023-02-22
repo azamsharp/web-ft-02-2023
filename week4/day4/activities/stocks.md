@@ -39,3 +39,7 @@ function getRandomInt(min, max) {
 }
 
 ```
+
+
+You can also download the code for stockQuotes.js from the link below: 
+https://gist.github.com/azamsharp/56bb26b988074b4a6eb8359f841294bb
