@@ -57,8 +57,7 @@
 - [Class Code](day4/code-downloads/callbacks.zip)
 - [Class Code - 07-29-2021](day4/code-downloads/callbacks-29.zip)
 - [Class code - 10/06/2022](day4/code-downloads/week4-day4.zip)
-- [Practice Exercises](https://gist.github.com/azamsharp/be14aa6206b3a2185367ad67804d80f1)
-
+- [Practice Exercises](day4/activities//practice-exercises.md)
 
 ## Day 4 
 

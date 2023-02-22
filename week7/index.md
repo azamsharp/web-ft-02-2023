@@ -74,7 +74,7 @@
 ## Day 5
 
 - Review 
-- Practice Exercises
+- [Practice Exercises](day5/activities//practice.md)
 
 ---
 
