@@ -52,7 +52,6 @@
 - [Activity 2 - Stock Quotes](day4/activities/stocks.md)
 - [Activity 3 - Array Helpers](day3/activities/array-helpers.md)
 - [Activity 4 - Slideshow](day5/activities/slideshow.md)
-- [Activity 5 - Filters for Starters, Desserts and Entrees](day3/assignments/res-menu.md)
 - [Assignment - News Website](day4/assignments/news.md)
 - [Class Code](day4/code-downloads/callbacks.zip)
 - [Class Code - 07-29-2021](day4/code-downloads/callbacks-29.zip)
@@ -73,6 +72,7 @@
 - [Deployment Surge](https://surge.sh/)
 - [Deployment Netlify](https://www.netlify.com/)
 - [Canvas Resource - Form Validation](https://digitalcrafts.instructure.com/courses/238/pages/reading-form-validation?module_item_id=57920)
+- [Canvas Resource - JQuery](https://digitalcrafts.instructure.com/courses/238/pages/reading-jquery?module_item_id=57937)
 
 ## Day 5 
 

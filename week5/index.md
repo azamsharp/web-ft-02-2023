@@ -57,6 +57,7 @@
 - [Class Code](day3/code-downloads/learn-fetch.zip)
 - [Class Code - 08/04/2021](day3/code-downloads/intro-promises.zip)
 - [Class Code - 10/12/2022](day3/code-downloads/intro-promises-2022.zip)
+- [Canvas Resource - CSS Animations](https://digitalcrafts.instructure.com/courses/238/pages/reading-css-animations?module_item_id=57974)
 
 ---
 
@@ -82,6 +83,8 @@
 
 - [Assignment - Hacker News](day4/assignments/hacker-news.md)
 - [Class Code](day4/code-downloads/async-await.zip)
+- [Canvas Resource - Group Project with Intro to Agile](https://digitalcrafts.instructure.com/courses/238/pages/reading-group-project-with-intro-to-agile?module_item_id=57997)
+- [Canvas Resource - Project Management 101](https://digitalcrafts.instructure.com/courses/238/pages/reading-project-management-101?module_item_id=57998)
 
 <!-- 
 - [Activity 1 - Saving Movie into Firebase](day4/activities/save-movie.md)
