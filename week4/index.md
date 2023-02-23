@@ -51,7 +51,7 @@
 - [Activity 1 - Timer](day4/activities/timer.md)
 - [Activity 2 - Stock Quotes](day4/activities/stocks.md)
 - [Activity 3 - Array Helpers](day3/activities/array-helpers.md)
-- [Activity 4 - Slideshow](day5/activities/slideshow.md)
+
 - [Assignment - News Website](day4/assignments/news.md)
 - [Class Code](day4/code-downloads/callbacks.zip)
 - [Class Code - 07-29-2021](day4/code-downloads/callbacks-29.zip)
@@ -67,6 +67,7 @@
 * Require a field
 
 ---
+- [Activity 4 - Slideshow](day5/activities/slideshow.md)
 - Form Validation
 - jQuery
 - [Activity 5 - Registration](day5/activities/register.md)
