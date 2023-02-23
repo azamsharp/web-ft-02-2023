@@ -70,7 +70,6 @@
 - [Activity 4 - Slideshow](day5/activities/slideshow.md)
 - Form Validation
 - [Callbacks Activity](day5/activities/callbacks-activity.zip)
-- [Activity 5 - Registration](day5/activities/register.md)
 - [Deployment Surge](https://surge.sh/)
 - [Deployment Netlify](https://www.netlify.com/)
 - [Canvas Resource - Form Validation](https://digitalcrafts.instructure.com/courses/238/pages/reading-form-validation?module_item_id=57920)
@@ -81,6 +80,8 @@
 ## Day 5 
 
 - Presentations 
+- Form Validation 
+- [Activity 5 - Registration](day5/activities/register.md)
 - Review 
 - [Practice Questions - HTML and JavaScript Validation](day5/activities/pq-html-js-validation.md) 
 - [Practice Questions - Array Helpers](day5/activities/pq-array-helpers.md)
