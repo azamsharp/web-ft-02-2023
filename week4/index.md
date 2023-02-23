@@ -69,6 +69,7 @@
 ---
 - [Activity 4 - Slideshow](day5/activities/slideshow.md)
 - Form Validation
+- [Callbacks Activity](day5/activities/callbacks-activity.zip)
 - [Activity 5 - Registration](day5/activities/register.md)
 - [Deployment Surge](https://surge.sh/)
 - [Deployment Netlify](https://www.netlify.com/)
