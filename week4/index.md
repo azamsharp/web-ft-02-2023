@@ -75,7 +75,7 @@
 - [Canvas Resource - Form Validation](https://digitalcrafts.instructure.com/courses/238/pages/reading-form-validation?module_item_id=57920)
 - [Canvas Resource - JQuery](https://digitalcrafts.instructure.com/courses/238/pages/reading-jquery?module_item_id=57937)
 - [Practice Questions - Callbacks in JavaScript](day5/activities/pq-callbacks.md)
-- [Assignment - Movies Website]()
+- [Assignment - Movies Website](day5/assignments/movies.md)
 
 ## Day 5 
 
