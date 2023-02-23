@@ -77,6 +77,7 @@
 - [Canvas Resource - JQuery](https://digitalcrafts.instructure.com/courses/238/pages/reading-jquery?module_item_id=57937)
 - [Practice Questions - Callbacks in JavaScript](day5/activities/pq-callbacks.md)
 - [Assignment - Movies Website](day5/assignments/movies.md)
+- [Class Code 02/23/2023](day5/code-downloads/LearnJS.zip)
 
 ## Day 5 
 
