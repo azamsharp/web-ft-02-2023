@@ -74,13 +74,14 @@
 - [Deployment Netlify](https://www.netlify.com/)
 - [Canvas Resource - Form Validation](https://digitalcrafts.instructure.com/courses/238/pages/reading-form-validation?module_item_id=57920)
 - [Canvas Resource - JQuery](https://digitalcrafts.instructure.com/courses/238/pages/reading-jquery?module_item_id=57937)
+- [Practice Questions - Callbacks in JavaScript](day5/activities/pq-callbacks.md)
 
 ## Day 5 
 
 - Presentations 
 - Review 
 - [Practice Questions - HTML and JavaScript Validation](day5/activities/pq-html-js-validation.md) 
-- [Practice Questions - Callbacks in JavaScript](day5/activities/pq-callbacks.md)
+
 - [Practice Questions - Array Helpers](day5/activities/pq-array-helpers.md)
 
 
