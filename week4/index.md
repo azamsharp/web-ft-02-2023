@@ -87,6 +87,7 @@
 - [Practice Questions - Callbacks in JavaScript](day5/activities/pq-callbacks.md)
 - [Practice Questions - HTML and JavaScript Validation](day5/activities/pq-html-js-validation.md) 
 - [Practice Questions - Array Helpers](day5/activities/pq-array-helpers.md)
+- [Class Code - 02/24/2023](https://gist.github.com/azamsharp/52137ac617f5323d6408d077c120011b)
 
 
 
