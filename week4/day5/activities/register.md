@@ -17,5 +17,5 @@ The form must validate for the following constraints:
 
 - Email *format* must be a valid email. This means johndoe@domainname.com is good but johndoe@.com is not good. 
 
-- Password should not be displayed when the user types in the text box 
+- Password should not be displayed when the user types in the text box. Password must be between 8 and 12 characters long. 
 
