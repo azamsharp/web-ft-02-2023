@@ -12,6 +12,7 @@ The following URL will give you details about the movie:
 
 http://www.omdbapi.com/?i=insertSelectedimdbIDhere&apikey=insertyourkeyhere 
 
+* DO NOT USE THE SAME REQUEST OBJECT TO PERFORM ANOTHER REQUEST. CREATE A BRAND NEW REQUEST OBJECT. 
  
 
 Feel free to use your design skills to create an amazing experience. 
