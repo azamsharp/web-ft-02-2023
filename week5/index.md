@@ -18,6 +18,7 @@
 - [Class Code](day1/code-downloads/async-js.zip)
 - [Class Code - 08/02/2021](day1/code-downloads/async-req.zip)
 - [Class Code - 10/10/2022](day1/code-downloads/week5-day1.zip)
+- [Class code - 02/27/2023](day1/code-downloads/consuming-api.zip)
 - [Resource - Links to Few Public APIs](https://github.com/public-apis/public-apis)
 - [Canvas Resource - AJAX 101](https://digitalcrafts.instructure.com/courses/238/pages/reading-ajax-101?module_item_id=57954)
 - [Canvas Resource - Promises](https://digitalcrafts.instructure.com/courses/238/pages/reading-promises?module_item_id=57955)
