@@ -42,6 +42,7 @@
 - [Class Code](day2/code-downloads/http-post.zip)
 - [Class Code - 08/03/2021](day2/code-downloads/post-async.zip)
 - [Class Code - 10/11/2022](day2/code-downloads/week5-day2.zip)
+- [Class Code - 02/27/2023](https://gist.github.com/azamsharp/e4864c10b2d49f0b2c6f0e0a860bc30f)
 
 ---
 
