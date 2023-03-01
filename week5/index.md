@@ -60,6 +60,7 @@
 - [Class Code - 08/04/2021](day3/code-downloads/intro-promises.zip)
 - [Class Code - 10/12/2022](day3/code-downloads/intro-promises-2022.zip)
 - [Canvas Resource - CSS Animations](https://digitalcrafts.instructure.com/courses/238/pages/reading-css-animations?module_item_id=57974)
+- [Class Code - 03/01/2023](https://gist.github.com/azamsharp/fbe9a76aae3fbe5c2b7d1f6da7475906)
 
 ---
 
