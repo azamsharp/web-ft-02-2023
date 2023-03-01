@@ -5,7 +5,7 @@ In this assignment you are going to the use the OpenWeatherMap API to get the li
 
 Go to https://openweathermap.org/ and register for a free account. OpenWeatherMap will send you an email with all the required information on how to access their API. 
 
-Use a similar endpoint to fetch the weather details and fetch the min temperature, max temperature, pressure and the name of the city. 
+Use a similar endpoint to fetch the weather details and fetch the temp, min temperature, max temperature, pressure and the name of the city. 
 
 http://api.openweathermap.org/data/2.5/weather?q=houston,uk&appid=YOURAPIKEY&units=imperial
 
