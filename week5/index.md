@@ -76,10 +76,9 @@
 2. Agile
 3. Scrum
 
-#
+- [Activity - Food2Fork](day4/activities/food2fork.md) 
 - [Agile Principles](day5/resources/agile.md) 
 - [Why create GitHub branches?](day5/resources/branches.md)
-
 - [Async and Await - Mozilla Website](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
 
 ### Activities, Assignments, and Class Code
