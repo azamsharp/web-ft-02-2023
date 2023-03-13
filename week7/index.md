@@ -18,6 +18,7 @@
 - [Assignment - TODO List](day1/assignments/todo.md)
 - [Class Code](day1/code-downloads/NodeMoviesApp.zip)
 - [Class Code - 10/25/2022](day1/code-downloads/10-25-2022-intro-node.zip)
+- [Class code - 03/13/2023](https://gist.github.com/azamsharp/0cbd500e72c79c2bbc3fbb5db5947a59)
 - [Canvas Recourse - Express 101](https://digitalcrafts.instructure.com/courses/238/pages/reading-express-101?module_item_id=44772)
 ---
 ## Day 2
