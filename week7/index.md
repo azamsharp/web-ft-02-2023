@@ -18,7 +18,7 @@
 - [Assignment - TODO List](day1/assignments/todo.md)
 - [Class Code](day1/code-downloads/NodeMoviesApp.zip)
 - [Class Code - 10/25/2022](day1/code-downloads/10-25-2022-intro-node.zip)
-- [Canvas Recourse - Expres 101](https://digitalcrafts.instructure.com/courses/220/pages/reading-express-101?module_item_id=44772)
+- [Canvas Recourse - Express 101](https://digitalcrafts.instructure.com/courses/238/pages/reading-express-101?module_item_id=44772)
 ---
 ## Day 2
 ### ❗ Learning Objectives
@@ -37,7 +37,7 @@
 - [Class Code](day2/code-downloads/hello-mustache.zip)
 - [Class Code - 08/17/2021](day2/code-downloads/hello-server-side-pages.zip)
 - [Class Code - 10/26/2022](day2/code-downloads/week7-day2-mustache.zip)
-- [Canvas Recourse - Express Template Engine](https://digitalcrafts.instructure.com/courses/220/pages/reading-express-template-engine?module_item_id=44786)
+- [Canvas Recourse - Express Template Engine](https://digitalcrafts.instructure.com/courses/238/pages/reading-express-template-engine?module_item_id=44786)
 - [Canvas Recourse -Middleware](https://digitalcrafts.instructure.com/courses/220/pages/reading-middleware?module_item_id=44787)
 ---
 
@@ -67,7 +67,7 @@
 - [Class Code - 08/19/2021](day4/code-downloads/session-middleware-1.zip)
 - [Class Code - 10/28/2022](day4/code-downloads/week7-day4-sessions.zip)
 
-- [Canvas Recourse - Node Under The Hood](https://digitalcrafts.instructure.com/courses/220/pages/reading-node-under-the-hood?module_item_id=44798)
+- [Canvas Recourse - Node Under The Hood](https://digitalcrafts.instructure.com/courses/238/pages/reading-node-under-the-hood?module_item_id=44798)
 - Gist: https://gist.github.com/azamsharp/fc55b2ca04417d813fa78886fc2b9ea3
 ---
 
