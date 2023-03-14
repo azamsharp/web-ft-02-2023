@@ -40,6 +40,7 @@
 - [Class Code - 10/26/2022](day2/code-downloads/week7-day2-mustache.zip)
 - [Canvas Recourse - Express Template Engine](https://digitalcrafts.instructure.com/courses/238/pages/reading-express-template-engine?module_item_id=44786)
 - [Canvas Recourse -Middleware](https://digitalcrafts.instructure.com/courses/220/pages/reading-middleware?module_item_id=44787)
+- [Class Code - 03/14/2023](day2/code-downloads/hello-mustache.zip)
 ---
 
 
