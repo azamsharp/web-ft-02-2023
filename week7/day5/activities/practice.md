@@ -1,30 +1,22 @@
 
 # Practice Activities 
 
-### Create a simple RESTful API:
-- Create an Express.js server that listens on port 3000.
-- Define routes for the following endpoints: /users, /users/:id, and /posts.
-- Implement GET, POST, PUT, and DELETE methods for each endpoint.
-- Use an in-memory data structure (e.g., an array) to store data for users and posts.
+Create an Express app that responds to GET requests with "Hello, world!".
 
-### Create a file upload API:
+Create a route that responds to a GET request with a JSON object containing your name, email, and phone number.
 
-- Create an Express.js server that listens on port 3000.
-- Define a route for the endpoint /upload that accepts a file upload.
-- Use the multer middleware to handle file uploads.
-- Save uploaded files to a folder on the server.
+Create a middleware function that logs the HTTP method and URL of incoming requests.
 
-### Create an authentication API:
+Create a dynamic route that responds to a GET request with a web page that displays a message based on the URL parameter.
 
-- Create an Express.js server that listens on port 3000.
-- Define routes for the endpoints /login and /logout.
-- Use bcrypt to hash passwords and jsonwebtoken to create and verify tokens.
-- Store user credentials (e.g., usernames and passwords) in a in-memory database.
+Create a route that receives POST requests with JSON data, and logs the data to the console.
 
+Create a middleware function that sets a custom header on all outgoing responses.
 
-## Create a blog application:
-- Create an Express.js server that listens on port 3000.
-- Define routes for the endpoints /posts and /posts/:id.
-- Use a in-memory database to store blog posts.
-- Implement CRUD operations for blog posts.
-- Use a templating engine (e.g., EJS) to render blog posts on the frontend.
+Create a route that serves a static HTML file from a public directory.
+
+Create a route that redirects users from one URL to another.
+
+Create a route that serves a file for download.
+
+Create a middleware function that returns a 404 error for all requests that don't match any of your routes.
