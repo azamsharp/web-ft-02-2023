@@ -52,6 +52,7 @@ pg-promise](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-
 - [Class Code](day1/code-downloads/intro-sql-pgpromise.zip)
 - [Class Code - 08/23/2021](day1/code-downloads/intro-sql-pgpromise-3.zip)
 - [Class Code - 10/31/2022](day1/code-downloads/10-30-2022-sql-intro.zip) 
+- [Class Code - 03/20/2023](day1/code-downloads/intro-pg-promise.zip)
 ---
 
 ## Day 2 
