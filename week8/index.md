@@ -114,5 +114,5 @@ pg-promise](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-
 ---
 ## Day 5 
 
-- [Deploying Node App to Heroku](day5/resources/Deploying-Node-App-to-Heroku.pdf) 
+- Review
 - [Class Code](day5/code-downloads/seq-rel.zip)
