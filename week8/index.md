@@ -98,6 +98,7 @@ pg-promise](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-
 - [Class Code - 08/25/2021](day3/code-downloads/intro-seq.zip)
 - [Class Code - 11/02/2022](day3/code-downloads/11-02-2022-intro-to-seq.zip)
 
+
 ---
 ## Day 4 
 
