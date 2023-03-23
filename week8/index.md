@@ -111,6 +111,7 @@ pg-promise](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-
 - [Class Code](day4/code-downloads/seq-rel.zip)
 - [Class Code - 08/26/2021](day4/code-downloads/intro-seq-relation.zip)
 - [Class Code - 11/02/2022](day4/code-downloads/11-03-2022-seq-relations.zip)
+- [Class Code - 03/23/2023](day4/code-downloads/seq-relationships.zip)
 
 ---
 ## Day 5 
