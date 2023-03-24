@@ -117,4 +117,6 @@ pg-promise](https://www.udemy.com/course/nodejs-complete-guide-to-building-data-
 ## Day 5 
 
 - Review
+- [Sorting Posts](day5/activities/sort-posts.md)
+- [Searching](day5/activities/searching-posts.md)
 - [Class Code](day5/code-downloads/seq-rel.zip)
