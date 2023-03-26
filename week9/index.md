@@ -2,7 +2,7 @@
 
 ### Day 1
 
-- [socket.io Documentation](https://socket.io/)
+- [Socket.io Documentation](https://socket.io/)
 
 ### Day 2 
 
