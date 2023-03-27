@@ -3,6 +3,7 @@
 ### Day 1
 
 - [socket.io Documentation](https://socket.io/)
+- [Assignment - Chat](/week9/assignments/chat.md)
 
 ### Day 2 
 
