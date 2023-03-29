@@ -18,7 +18,10 @@
 
 ### Day 3 
 
-- MVC Design Pattern 
+- [MVC Design Pattern](https://blog.logrocket.com/building-structuring-node-js-mvc-application/) 
+- [Video: MVC Design Pattern](https://youtu.be/zW_tZR0Ir3Q)
+- [Deployment - Render](https://render.com/docs/deploy-node-express-app)
+- [Assignment - MVC Pattern](day3/assignments/mvc.md)
 
 ### Day 4 
 
