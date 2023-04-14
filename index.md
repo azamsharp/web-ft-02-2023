@@ -12,7 +12,7 @@
 
 - [Week 9 - Group Backend Project Week]
 - [Week 10 - React](week11/index.md)
-- [Week 11 - Career Week]
+- [Week 11 - Career Week](week11/career-week.md)
 - [Week 12 - Redux](week12/index.md)
 - [Week 13 - Advanced Week](week13/index.md)
 - [Week 14 - Individual React/Redux UI Project]
