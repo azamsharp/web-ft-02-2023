@@ -26,7 +26,9 @@
 - [Class Code - 12/08/2022](day3/code-downloads/book-barn-server-12-08-2022.zip) 
 
 ## Day 4 
-[Start of the Individual Project]
+- [Redux ToolKit](https://redux-toolkit.js.org/)
+- [Class Code - 05-04-2023](day4/code-downloads/hello-redux-toolkit.zip)
+- [Start of the Individual Project]
 
 ## Day 5 
 [Individual Project]
