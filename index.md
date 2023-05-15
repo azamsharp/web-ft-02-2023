@@ -14,7 +14,7 @@
 - [Week 12 - Redux](week12/index.md)
 - [Week 13 - Advanced Week](week13/index.md)
 - [Week 14 - Individual React/Redux UI Project]
-- [Week 15 - Algorithms] 
+- [Week 15 - Algorithms](week15/index.md) 
 - [Week 16 - Capstone]  
 - [Week 17 - Capstone] 
 
