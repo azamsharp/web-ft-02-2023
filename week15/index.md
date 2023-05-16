@@ -10,7 +10,11 @@
 
 ## Day 2 
 - Personal finance 
-- Algorithms 
+- [JavaScript Programming Questions](day1/algo.md) 
+- [React Interview Questions](day1/react.md)
+- [React Programming Questions](day1/react-exercises.md)
+- [ExpressJS Interview Questions](day1/expressjs.md) 
+- [ExpressJS Programming Questions](day1/express-exercises.md)
 
 ## Day 3 
 
