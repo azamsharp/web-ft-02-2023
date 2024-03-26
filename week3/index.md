@@ -23,6 +23,7 @@
 - [Activity 2](day1/activities/apply-styles-list.md)
 - [Assignment - 90's Website](day1/assignments/ninty-website.md)
 - [Class Code - 09-26-2022](day1/code-downloads/LearnHTML.zip) 
+- [Activity - Image Gallery](day2/activities/image-gallery.md)
 - [Canvas Recourse - CSS 101](https://digitalcrafts.instructure.com/courses/220/pages/reading-css-101?module_item_id=44529)
 
 ## Day 3 
