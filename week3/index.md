@@ -30,6 +30,7 @@
 - [Activity - HighOnCoding](day2/activities/hoc.md)
 - [Activity 1 - Fix the Margin](day2/activities/fix-the-margin.md) 
 - [Activity 2 - Deal Week](day2/activities/deal-week.md) 
+- [Activity 3 - Driver License Application Form](day2/activities/driver-license.md)
 - [Assignment - Interface for Bricks Game](day2/assignments/bricks.md)
 - [Class Code - 09/27/2022](day2/code-downloads/LearnPositionMargins.zip) 
 - [Class Code - 02/08/2023](day2/code-downloads/LearnHTML.zip) 
