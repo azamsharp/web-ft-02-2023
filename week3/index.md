@@ -36,6 +36,7 @@
 - [Class Code - 02/08/2023](day2/code-downloads/LearnHTML.zip) 
 - [Canvas Recourse - Intro to CSS Grid]
 - [Canvas Recourse - CSS Postion Properties]
+- [Exercise: Event Reminder Web Application (HTML/CSS)](day2/activities/event-reminder.md)
 
 ## Day 4
 ---
