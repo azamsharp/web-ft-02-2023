@@ -52,6 +52,7 @@
 
 - [Canvas Recourse - Media Queries](https://digitalcrafts.instructure.com/courses/220/pages/reading-media-queries?module_item_id=44565)
 - [Canvas Recourse - CSS Flexbox](https://digitalcrafts.instructure.com/courses/220/pages/reading-css-flexbox?module_item_id=44564)
+- [Responsive Design for "WildGear" E-commerce Website](day3/activities//wild-gear.md)
 
 ## Day 5 
 ---
