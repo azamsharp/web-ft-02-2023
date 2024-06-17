@@ -9,4 +9,4 @@ Take a look at animation below:
 
 You can use the tenary operator like this: 
 
-```{this.state.isOn ? "ON" : "OFF"}```
+```{isOn ? "ON" : "OFF"}```
