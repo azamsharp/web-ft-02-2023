@@ -24,6 +24,7 @@
 - [Class Code](day3/code-downloads/hello-mongodb.zip) 
 - [Class Code - 10/07/2021](day3/code-downloads/hello-mongodb-10-7-2021.zip) 
 - [Class Code - 12/08/2022](day3/code-downloads/book-barn-server-12-08-2022.zip) 
+- [Book Barn MERN Stack](exercises/book-barn.md) 
 
 ## Day 4 
 - [Redux ToolKit](https://redux-toolkit.js.org/)
